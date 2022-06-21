@@ -4,7 +4,7 @@
 
 Repositório criado para o curso de **Mineração de Emoção em Textos com Python e NLTK** da [IA Expert Academy](https://iaexpert.academy).
 
-__Objetivo:__
+__Conteúdo:__
 
 - Mineração de textos e classificação
 - Pré-processamento dos textos
